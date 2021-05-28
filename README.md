@@ -10,3 +10,4 @@ Repository to track good articles/blogs/tutorials on the internet related to tec
 - [iTerm2 Customization (macOS)](https://gist.github.com/kevin-smets/8568070) <br>
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines) <br>
 - [Sublime Text 3 - integrated terminal](https://stackoverflow.com/questions/31439023/sublime-text-3-integrated-terminal)<br>
+- [How to practice Machine Coding](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)<br>
